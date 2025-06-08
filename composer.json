@@ -1,5 +1,5 @@
 {
-    "name": "novri-ra/webgis-php",
+    "name": "u-amelia/k-medoids-webgis",
     "require": {
         "joshcam/mysqli-database-class": "dev-master",
         "josantonius/session": "^2.0",
@@ -8,8 +8,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "novri-ra",
-            "email": "novrira.dev@gmail.com"
+            "name": "u-amelia",
+            "email": "ulvaamelia272@gmail.com"
         }
     ]
 }
